@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "server": "127.0.0.1",
+            "port": 5506,
+            "database": "db",
+            "username": "root",
+            "password": "1",
+            "previewLimit": 50,
+            "driver": "SingleStoreDB",
+            "name": "con1"
+        }
+    ]
+}
